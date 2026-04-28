@@ -1,3 +1,3 @@
 # Exercícios 
 
-Repositório com soluções em Python para prática de lógica de programação.
+Repositório com exercíos práticos em Python para prática de lógica de programação.
