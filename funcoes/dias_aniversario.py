@@ -16,4 +16,4 @@ dia = int(input("Digite o dia do seu aniversário: "))
 mes = int(input("Digite o mês do seu aniversário: "))
 
 resultado = dias_aniversario(dia, mes)
-print(f"Faltam {resultado} para o seu aniversário.")
+print(f"Faltam {resultado} dias para o seu aniversário.")
