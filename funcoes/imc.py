@@ -16,4 +16,4 @@ elif resultado < 25:
 elif resultado < 30:
     print("Sobrepeso.")
 else:
-    print("Obsidade.")
+    print("Obesidade.")

@@ -9,6 +9,6 @@ valor_pago = float(input("Quanto você entregou R$: "))
 resultado = troco(total_compra, valor_pago)
 
 if resultado < 0:
-    print("Valor insulficiente.")
+    print("Valor insuficiente.")
 else:
     print(f"Seu troco é {resultado:.2f}")
